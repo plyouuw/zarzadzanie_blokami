@@ -3,4 +3,4 @@
 
 Komunikaty są w języku polskim, nazwy metody i klas również.
 
-Zamieszczony został projekt utworzony w Visual Studio 2022 dla platformy .NET 6.0
+Zamieszczony projekt został utworzony w Visual Studio 2022 dla platformy .NET 6.0
