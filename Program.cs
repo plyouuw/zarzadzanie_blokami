@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using static Toolbox;
 
-namespace zadanie
+namespace zarzadzanie_blokami
 {
     internal class Program
     {
