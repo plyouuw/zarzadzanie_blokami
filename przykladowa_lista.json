@@ -1,0 +1,91 @@
+{
+  "1": [
+    {
+      "numer_mieszkania": 1,
+      "dlugosc": 10,
+      "szerokosc": 15,
+      "cena_za_m2": 4000,
+      "dostepnosc": 1
+    },
+    {
+      "numer_mieszkania": 2,
+      "dlugosc": 9,
+      "szerokosc": 13,
+      "cena_za_m2": 8000,
+      "dostepnosc": 1
+    },
+    {
+      "numer_mieszkania": 3,
+      "dlugosc": 12,
+      "szerokosc": 12,
+      "cena_za_m2": 16000,
+      "dostepnosc": 1
+    }
+  ],
+  "2": [
+    {
+      "numer_mieszkania": 1,
+      "dlugosc": 5,
+      "szerokosc": 5,
+      "cena_za_m2": 4500,
+      "dostepnosc": 1
+    },
+    {
+      "numer_mieszkania": 2,
+      "dlugosc": 2,
+      "szerokosc": 3,
+      "cena_za_m2": 1000,
+      "dostepnosc": 1
+    }
+  ],
+  "3": [
+    {
+      "numer_mieszkania": 1,
+      "dlugosc": 15,
+      "szerokosc": 15,
+      "cena_za_m2": 5000,
+      "dostepnosc": 1
+    }
+  ],
+  "4": [
+    {
+      "numer_mieszkania": 1,
+      "dlugosc": 10,
+      "szerokosc": 14,
+      "cena_za_m2": 5000,
+      "dostepnosc": 1
+    },
+    {
+      "numer_mieszkania": 2,
+      "dlugosc": 13,
+      "szerokosc": 8,
+      "cena_za_m2": 9999,
+      "dostepnosc": 1
+    }
+  ],
+  "5": [
+    {
+      "numer_mieszkania": 1,
+      "dlugosc": 6,
+      "szerokosc": 6,
+      "cena_za_m2": 3600,
+      "dostepnosc": 1
+    }
+  ],
+  "6": [
+    {
+      "numer_mieszkania": 1,
+      "dlugosc": 4,
+      "szerokosc": 5,
+      "cena_za_m2": 4200,
+      "dostepnosc": 1
+    },
+    {
+      "numer_mieszkania": 2,
+      "dlugosc": 8,
+      "szerokosc": 8,
+      "cena_za_m2": 9790,
+      "dostepnosc": 1
+    }
+  ]
+}
