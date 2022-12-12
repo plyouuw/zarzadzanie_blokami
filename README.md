@@ -5,7 +5,7 @@ Komunikaty są w języku polskim, nazwy metody i klas również.
 
 Zamieszczony projekt został utworzony w Visual Studio 2022 dla platformy .NET 6.0
 
-Aplikacja realizuje zadanie:
+Aplikacja realizuje następujące zadanie:
 > Pan Stanisław prowadzi firmę developerską StanBUD - zajmującą się budową bloków mieszkalnych. W związku z ilością inwestycji chciałby posiadać aplikację, która umożliwi mu wyszukanie w szybkim czasie dostępnych mieszkań o pewnych konkretnych cechach. Zgłasza się zatem do Ciebie - programisto - z prośbą o pomoc.
 > Zadaniem jest stworzenie programu realizującego następujące zagadnienia :
 > 
